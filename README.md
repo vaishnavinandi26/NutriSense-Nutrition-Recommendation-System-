@@ -1,5 +1,5 @@
-# Wellness-Oriented-Nutrition-Assistant-Data-Science-Project
-# Wellness-Oriented Nutrition Assistant 🍎💪
+# NutriSense – Nutrition Recommendation System 
+# NutriSense – Nutrition Recommendation System  🍎💪
 
 A smart and personalized nutrition assistant designed to help users achieve their health and wellness goals by providing tailored diet recommendations and supporting weight management.
 
